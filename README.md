@@ -15,3 +15,6 @@ Hearty Journal is a free online diary and personal journal with a focus on priva
 # CDN Usage
 
 [![](https://data.jsdelivr.com/v1/package/gh/chennien/hearty.me/badge?style=rounded)](https://www.jsdelivr.com/package/gh/chennien/hearty.me)
+
+
+[Repository Link](https://git.io/JvNvX)
