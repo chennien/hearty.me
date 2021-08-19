@@ -1,9 +1,19 @@
 # 溫度日記 Hearty Journal
 
 [www.hearty.me](https://hearty.me)
+
+
+[iOS](https://hearty.me/ios) | 
+[Android](https://hearty.me/android) | 
+[macOS](https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@4/mac/%E6%BA%AB%E5%BA%A6%E6%97%A5%E8%A8%98.dmg) | 
+[Windows](https://d.hearty.app/win/edge.x64/%E6%BA%AB%E5%BA%A6%E6%97%A5%E8%A8%98.exe) 
+
+
 ```
-Hearty Journal is a free online diary and personal journal with a focus on privacy. Securely record your thoughts, feelings and ideas with the ease of writing on a pad of paper. Its aesthetic looks like a piece of notebook paper with handwritten words on it.
+Hearty Journal is a beautiful diary and personal journal application with a focus on privacy. Securely record your thoughts, feelings, ideas and private moments with the ease of writing on a pad of paper. Its aesthetic looks like a piece of notebook paper with handwritten words on it. Also, beautiful themes, lovely journal stickers and luxury fonts are available in the app. Hearty Journal works on both your computer and phone (Windows, macOS, iOS and Android are supported). Moreover, to keep your memories safe, entries will be encrypted synced to the cloud for backup. A sanctuary for your mind and soul, Hearty Journal will help pour your feelings/brain dump, increase your positive energy, be more grateful and a calmer mind by building healthy thinking through journaling.
 ```
+
+
 [![Hits-of-Code](https://hitsofcode.com/github/chennien/hearty.me)](https://hitsofcode.com/view/github.com/chennien/hearty.me) 
 ![](https://img.shields.io/github/repo-size/chennien/hearty.me?style=flat-square) 
 ![](https://img.shields.io/github/v/release/chennien/hearty.me?style=flat-square) 
