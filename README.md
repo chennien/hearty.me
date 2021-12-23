@@ -3,11 +3,11 @@
 [www.hearty.me](https://hearty.me)
 
 
-[iOS](https://hearty.me/ios) | 
-[Android](https://hearty.me/android) | 
-[macOS](https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@4/mac/%E6%BA%AB%E5%BA%A6%E6%97%A5%E8%A8%98.dmg) | 
-[Windows](https://d.hearty.app/win/edge.x64/%E6%BA%AB%E5%BA%A6%E6%97%A5%E8%A8%98.exe) 
-
+[iOS](https://hearty.app/ios) | 
+[Android](https://goo.gl/mFdkgx) | 
+[macOS](https://bitly.com/3ryQ30W) | 
+[Windows](https://d.hearty.app/win/edge.x64/%E6%BA%AB%E5%BA%A6%E6%97%A5%E8%A8%98.exe) | 
+[Windows (UWP)](https://api.hearty.app/uwp) 
 
 ```
 Hearty Journal is a beautiful diary and personal journal application with a focus on privacy. Securely record your thoughts, feelings, ideas and private moments with the ease of writing on a pad of paper. Its aesthetic looks like a piece of notebook paper with handwritten words on it. Also, beautiful themes, lovely journal stickers and luxury fonts are available in the app. Hearty Journal works on both your computer and phone (Windows, macOS, iOS and Android are supported). Moreover, to keep your memories safe, entries will be encrypted synced to the cloud for backup. A sanctuary for your mind and soul, Hearty Journal will help pour your feelings/brain dump, increase your positive energy, be more grateful and a calmer mind by building healthy thinking through journaling.
