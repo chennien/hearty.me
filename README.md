@@ -5,8 +5,8 @@
 
 [iOS](https://apple.co/3AXkUah) | 
 [Android](https://goo.gl/mFdkgx) | 
-[macOS](https://bitly.com/3ryQ30W) | 
-[Windows](https://bitly.com/3E9FMeQ) | 
+[macOS](https://d.hearty.app/mac) | 
+[Windows](https://d.hearty.app/win) | 
 [Windows (UWP)](https://bitly.com/3ynmYFL) 
 
 ```
